@@ -7,6 +7,7 @@ import {
   CreateNpc,
   CreateObject,
 } from './service/create';
+
 import { MakeMap, Move, Meet } from './service/map';
 
 const nowLocation = new NowLocation();
